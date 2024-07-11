@@ -1,0 +1,20 @@
+body{
+    background-image: url(gues2.jpg);
+    background-size: cover;
+
+form{
+    background-color: rgb(213, 244, 188);
+    margin: 0px 190px 0px 190px;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+form:hover{
+    background-color: rgb(183, 15, 43);
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(237, 245, 168);
+}
+}
